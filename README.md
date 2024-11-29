@@ -1,5 +1,6 @@
 # demo
-this is a readme file.Adding line 
+this is a readme file.
+Adding line .
 Adding another line to the file!
 
 hello world!
